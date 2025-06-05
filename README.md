@@ -1,9 +1,6 @@
 # Project-Management-Tool
 # Canvas Team Sync
 
-[![Live Demo](https://canvas-team-sync.lovable.app/)
-[![License: MIT](LICENSE)
-
 Canvas Team Sync is a modern, collaborative team workspace designed to streamline project management, enhance productivity, and simplify team collaboration. The platform offers a clean interface and real-time synchronization for tasks, notes, and updates.
 
 ## 🚀 Features
@@ -42,7 +39,7 @@ Canvas-Team-Sync/
 ## 📦 Installation
 
 ```bash
-git clone https://github.com//canvas-team-sync.git
+[git clone https://github.com//canvas-team-sync.git](https://github.com/manideep-19/Project-Management-Tool.git)
 cd canvas-team-sync
 npm install
 npm start
