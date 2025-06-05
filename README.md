@@ -18,9 +18,8 @@ Visit the live version here: [https://canvas-team-sync.lovable.app](https://canv
 ## 🛠 Tech Stack
 
 - **Frontend**: React.js, Tailwind CSS
-- **Backend**: Node.js, Express (optional based on implementation)
 - **Database**: Firebase / Supabase (suggested for real-time features)
-- **Authentication**: Firebase Auth / OAuth (if implemented)
+- **Authentication**: Firebase Auth / OAuth 
 - **Deployment**: Vercel / Netlify / Render
 
 ## 📂 Project Structure
